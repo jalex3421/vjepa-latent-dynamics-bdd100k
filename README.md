@@ -4,10 +4,6 @@ Author: Alejandro Meza Tudela
 
 This repository implements a robust inference and visualization pipeline for **V-JEPA (Vision-Joint Embedding Predictive Architecture)** applied to the **BDD100K** autonomous driving dataset. By analyzing the model's high-dimensional latent space, we can interpret how a self-supervised "World Model" understands driving environments without human-labeled data.
 
-## 🎥 Project Demo
-![V-JEPA Inference Demo](demo/your_demo_video.gif)
-> *Note: If you are using a .mp4 file, GitHub supports direct embedding via the following syntax:*
-> <video src="demo/your_demo_video.mp4" width="100%"></video>
 
 ## 🚀 Overview
 This project focuses on extracting and visualizing the "internal thoughts" of the V-JEPA model. Instead of looking at raw pixels, we project the model's embeddings into interpretable manifolds to track semantic transitions and "surprise" during driving sequences.
