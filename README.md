@@ -1,5 +1,7 @@
 # V-JEPA Latent Feature Extraction and Inference Pipeline
 
+Author: Alejandro Meza Tudela
+
 This repository implements a robust inference and visualization pipeline for **V-JEPA (Vision-Joint Embedding Predictive Architecture)** applied to the **BDD100K** autonomous driving dataset. By analyzing the model's high-dimensional latent space, we can interpret how a self-supervised "World Model" understands driving environments without human-labeled data.
 
 ## 🎥 Project Demo
