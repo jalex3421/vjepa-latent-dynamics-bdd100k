@@ -18,8 +18,9 @@ The dashboard provides three distinct views into the model's state:
 
 
 ### 🎥 V-JEPA Inference Dashboard Demo
-https://github.com/jalex3421/vjepa-latent-dynamics-bdd100k/releases/download/v1.0.0-demo/VJEPA_Inference_Visualizer_demo.mp4
 
+[![V-JEPA Model Dynamics](https://img.youtube.com/vi/1W32YP6wckc/0.jpg)](https://youtu.be/1W32YP6wckc)
+*Click the image above to watch the full-resolution R&D demo on YouTube.*
 
 
 ## 🧠 Key Findings
