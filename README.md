@@ -15,6 +15,16 @@ The dashboard provides three distinct views into the model's state:
 *   **Latent Velocity (Semantic Surprise):** Calculated as the $L_2$ norm of the change between consecutive embeddings. Peaks in this "pulse" identify critical events—such as sudden braking or lane changes—where the model detects a significant shift in the situational context.
 *   **Spatial Semantics:** A $14 \times 14$ grid revealing the model’s tokenized understanding. This unsupervised segmentation demonstrates how V-JEPA groups related visual objects (road, cars, sky) through temporal consistency.
 
+### 🎥 V-JEPA Inference Dashboard Demo
+<p align="center">
+  <video src="https://github.com/jalex3421/vjepa-latent-dynamics-bdd100k/releases/download/v1.0.0-demo/VJEPA_Inference_Visualizer_demo.mp4
+" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <em>Real-time visualization of Latent Topology and Semantic Pulse on BDD100K sequences.</em>
+</p>
+
 ## 🧠 Key Findings
 Through this inference pipeline, we have verified that **V-JEPA’s latent state is highly sensitive to environmental dynamics**. 
 
