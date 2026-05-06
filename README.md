@@ -17,10 +17,7 @@ The dashboard provides three distinct views into the model's state:
 
 ### 🎥 V-JEPA Inference Dashboard Demo
 <p align="center">
-  <video src="https://github.com/jalex3421/vjepa-latent-dynamics-bdd100k/releases/download/v1.0.0-demo/VJEPA_Inference_Visualizer_demo.mp4
-" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag.
-  </video>
+  <video src="https://github.com/jalex3421/vjepa-latent-dynamics-bdd100k/releases/download/v1.0.0-demo/VJEPA_Inference_Visualizer_demo.mp4" width="100%" muted autoplay loop controls></video>
   <br>
   <em>Real-time visualization of Latent Topology and Semantic Pulse on BDD100K sequences.</em>
 </p>
