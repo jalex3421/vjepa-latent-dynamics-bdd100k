@@ -17,9 +17,10 @@ The dashboard provides three distinct views into the model's state:
 
 
 
-### 🎥 V-JEPA Inference Dashboard Demo
+## 🎥 V-JEPA Inference Dashboard Demo
 
 [![V-JEPA Model Dynamics](https://img.youtube.com/vi/1W32YP6wckc/0.jpg)](https://youtu.be/1W32YP6wckc)
+
 *Click the image above to watch the full-resolution R&D demo on YouTube.*
 
 
